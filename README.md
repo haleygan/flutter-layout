@@ -1,6 +1,7 @@
-# exercise_four
+# BESQUARE - Mobile Development Exercise 4
 
 A new Flutter project.
+Scrollable Friends List, including notification of messages received.
 
 ## Getting Started
 
